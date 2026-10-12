@@ -1,0 +1,23 @@
+
+# Build output and IDE files
+bin/
+obj/
+.vs/
+.vscode/
+
+# User-specific settings
+*.user
+*.suo
+
+# Publish profiles and deployment credentials
+*.pubxml.user
+*.publishsettings
+
+# Local databases and logs
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# Local configuration and secrets
+secrets.json
